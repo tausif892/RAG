@@ -3,5 +3,3 @@ uvicorn
 python-dotenv
 chromadb
 google-genai
-pydantic
-requests
